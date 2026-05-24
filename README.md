@@ -1,6 +1,6 @@
 # ML for Trading
 
-## List of code, papers, and resources for AI/deep learning/machine learning/neural networks applied to algorithmic trading.
+- List of code, papers, and resources for AI/deep learning/machine learning/neural networks applied to algorithmic trading.
 
 # Contents
 - [Papers](#papers)
